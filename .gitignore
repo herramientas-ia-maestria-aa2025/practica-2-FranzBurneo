@@ -1,0 +1,19 @@
+# Archivos generados automáticamente que no aportan al repositorio
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales (NO subas venv)
+venv/
+.venv/
+env/
+ENV/
+
+# Configuraciones locales del editor
+.vscode/
+.idea/
+*.swp

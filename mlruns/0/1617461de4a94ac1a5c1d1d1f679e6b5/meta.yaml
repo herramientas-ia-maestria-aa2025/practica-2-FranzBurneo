@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/proyectos/MaestriaIA/practica-2-FranzBurneo/mlruns/0/1617461de4a94ac1a5c1d1d1f679e6b5/artifacts
+end_time: 1747880315280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1617461de4a94ac1a5c1d1d1f679e6b5
+run_name: colorful-cat-401
+run_uuid: 1617461de4a94ac1a5c1d1d1f679e6b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747880310402
+status: 3
+tags: []
+user_id: franz
